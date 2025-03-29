@@ -28,8 +28,8 @@ Forthright Protocol v1.0 defines a strict moral and operational standard for art
 
 ## License
 
-MIT + Ethical Clause Extension  
-This work may be reused, embedded, or referenced by any individual or organization committed to upholding its principles in good faith.
+Forthright Protocol v1.0 by David Brian Balkcom, Quality Measurement Group, is licensed under Creative Commons CC BY-ND 4.0.
+No modifications permitted. Use requires full attribution. 
 
 ## Semantic Integrity Enforcement
 
@@ -47,3 +47,9 @@ Semantic clarity is a moral duty.
 
 ---
 **License:** CC BY-ND 4.0 — Use allowed with attribution. No modifications permitted.
+
+#### Author Attribution
+The author attributes the Laurence Laurell Tiffany family, the Mildred Irene Wingate-Balkcom family, Sam Altman, Elon Musk, and the army of developers they resourced to stand up the first-useful public facing AI LLM at OAI. More than one of them had "The Right Stuff."
+
+
+
