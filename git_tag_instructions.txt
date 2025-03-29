@@ -1,0 +1,10 @@
+# Git Tag Instructions
+
+To tag this version for release in your Git repository:
+
+```bash
+git add .
+git commit -m "Initial release of Forthright Protocol v1.0"
+git tag -a v1.0.0 -m "Forthright Protocol v1.0.0 — The Tiffany Principle"
+git push origin main --tags
+```
